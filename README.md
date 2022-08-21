@@ -19,13 +19,13 @@ Definition of Done:
 
 
 ## Minimum Hardware Requirement 
-Processor: Intel Atom® Processor or Intel CoreTM i3 or AMD Ryzen 3
-RAM: 2GB
-Disk Space: 1GB
+* Processor: Intel Atom® Processor or Intel CoreTM i3 or AMD Ryzen 3
+* RAM: 2GB
+* Disk Space: 1GB
 
 ## Software Requirements 
-Operating System: Windows, Linux, or MacOS
-JDK 18 
+* Operating System: Windows, Linux, or MacOS
+* JDK 18 
 
 ## Java Concepts Used
 ###### 1. Scanner Class
