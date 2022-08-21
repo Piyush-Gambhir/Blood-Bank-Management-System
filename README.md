@@ -28,16 +28,16 @@ Operating System: Windows, Linux, or MacOS
 JDK 18 
 
 ## Java Concepts Used
-1. Scanner Class
+###### 1. Scanner Class
 Scanner is a class in java.util package used for obtaining the input of the primitive types like int, double, etc. and strings. It is the easiest way to read input in a Java program, though not very efficient if you want an input method for scenarios where time is a constraint like in competitive programming.
 
-2. Exception Handling
-Exception Handling in Java is one of the effective means to handle the runtime errors so that the regular flow of the application can be preserved. Java Exception Handling is a mechanism to handle runtime errors such as ClassNotFoundException, IOException, SQLException, RemoteException, etc.
+###### 2. Exception Handling
+Exception Handling in Java is one of the effective means to handle the runtime errors so that the regular flow of the application can be preserved. Java Exception    Handling is a mechanism to handle runtime errors such as ClassNotFoundException, IOException, SQLException, RemoteException, etc.
 
-3. File Handling
+###### 3. File Handling
 In Java, with the help of File Class, we can work with files. This File Class is inside the java.io package. The File class can be used by creating an object of the class and then specifying the name of the file.
 
-4. ArrayList
+###### 4. ArrayList
 The ArrayList class is a resizable array, which can be found in the java.util package.
 The difference between a built-in array and an ArrayList in Java, is that the size of an array cannot be modified (if you want to add or remove elements to/from an array, you must create a new one). While elements can be added and removed from an ArrayList whenever you want. 
 
