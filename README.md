@@ -4,11 +4,12 @@ Semester-II - End Term Project for FOCP-II (Fundamentals of Computer Programming
 
 ## Problem Statement 
 Blood Bank management System: The aim of the project is to retrieve, process and store information related to donors and patients. The system inputs the details of patients (name, age, disease, doctor, admitted date, blood group required) and details of donors (name, age, blood group, any disease). There is a menu which has following choices:
-•	Adding record of patient
-•	Adding record of donor
-•	Search donor with existing blood group
-•	Search patient with name
-•	List of patients with blood group required and admitted date sorted in ascending order
+1. Adding record of patient
+2. Adding record of donor
+3. Search donor with existing blood group
+4. Search patient with name
+5. List of patients with blood group required and admitted date sorted in ascending order
+
 Definition of Done:
 1.	The donor is allotted to a patient only if both blood group matches. 
 2.	Above choices have to be implemented using functions
