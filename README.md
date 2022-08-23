@@ -23,9 +23,11 @@ Definition of Done:
 * RAM: 2GB
 * Disk Space: 1GB
 
+
 ## Software Requirements 
 * Operating System: Windows, Linux, or MacOS
 * JDK 18 
+
 
 ## Java Concepts Used
 #### 1. Scanner Class
