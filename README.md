@@ -1,4 +1,4 @@
-# FOCP-II-Project-Semester-II-
+# FOCP-II Project - Semester-II
 Semester-II - End Term Project for FOCP-II (Fundamentals of Computer Programming-II) 
 
 
@@ -42,6 +42,3 @@ In Java, with the help of File Class, we can work with files. This File Class is
 #### 4. ArrayList
 The ArrayList class is a resizable array, which can be found in the java.util package.
 The difference between a built-in array and an ArrayList in Java, is that the size of an array cannot be modified (if you want to add or remove elements to/from an array, you must create a new one). While elements can be added and removed from an ArrayList whenever you want. 
-
-
-
