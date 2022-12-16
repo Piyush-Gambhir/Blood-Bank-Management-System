@@ -1,5 +1,5 @@
-# FOCP-II Project - Semester-II
-Semester-II - End Term Project for FOCP-II (Fundamentals of Computer Programming-II) 
+# Blood Bank Managament System
+Semester-II - End Semester Project for FOCP-II (Fundamentals of Computer Programming-II) 
 
 
 ## Problem Statement 
